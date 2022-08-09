@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bluetooth Relay Controller</string>
+    <string name="ble_relay_controller_channel_name">Bluetooth Relay Controller Scanner</string>
+    <string name="ble_relay_controller_channel_description">Scans available Bluetooth Relay Devices</string>
+    <string name="ble_relay_controller_notification_content_title">Scanning Bluetooth Relay Devices</string>
+    <string name="ble_relay_controller_notification_content_text">Bluetooth Relay Controller Scanner is currently running in the background.</string>
+</resources>
